@@ -1,4 +1,4 @@
 export interface Movie {
-    title: string,
-    releaseYear: number
+  title: string;
+  releaseYear: number;
 }
